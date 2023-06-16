@@ -1,0 +1,95 @@
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T00:04:28.124Z"}
+{"input":"300","level":"info","message":"Roman conversion request","output":"CCC","timestamp":"2023-06-16T00:04:49.271Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T00:05:17.805Z"}
+{"input":"9","level":"info","message":"Roman conversion request","output":"IX","timestamp":"2023-06-16T00:05:17.859Z"}
+{"input":"abc","level":"warn","message":"Invalid input","timestamp":"2023-06-16T00:05:17.878Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T00:11:36.319Z"}
+{"input":"300000","level":"warn","message":"Invalid input","timestamp":"2023-06-16T00:11:36.522Z"}
+{"input":"300000","level":"warn","message":"Invalid input","timestamp":"2023-06-16T00:11:40.681Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T00:22:58.754Z"}
+{"input":"98","level":"info","message":"Roman conversion request","output":"XCVIII","timestamp":"2023-06-16T00:23:08.595Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T04:52:13.449Z"}
+{"input":"98","level":"info","message":"Roman conversion request","output":"XCVIII","timestamp":"2023-06-16T04:52:19.749Z"}
+{"input":"1287","level":"info","message":"Roman conversion request","output":"MCCLXXXVII","timestamp":"2023-06-16T04:52:26.956Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T04:55:19.988Z"}
+{"input":"1287","level":"info","message":"Roman conversion request","output":"MCCLXXXVII","timestamp":"2023-06-16T04:55:24.332Z"}
+{"input":"887","level":"info","message":"Roman conversion request","output":"DCCCLXXXVII","timestamp":"2023-06-16T04:55:27.344Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T04:57:21.418Z"}
+{"input":"887","level":"info","message":"Roman conversion request","output":"DCCCLXXXVII","timestamp":"2023-06-16T04:57:24.812Z"}
+{"input":"123","level":"info","message":"Roman conversion request","output":"CXXIII","timestamp":"2023-06-16T04:57:28.213Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T04:57:51.293Z"}
+{"input":"123","level":"info","message":"Roman conversion request","output":"CXXIII","timestamp":"2023-06-16T04:57:53.745Z"}
+{"input":"22","level":"info","message":"Roman conversion request","output":"XXII","timestamp":"2023-06-16T04:57:57.402Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T05:04:38.873Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T05:51:55.076Z"}
+{"input":"22","level":"info","message":"Roman conversion request","output":"XXII","timestamp":"2023-06-16T05:51:59.447Z"}
+{"input":"32","level":"info","message":"Roman conversion request","output":"XXXII","timestamp":"2023-06-16T05:52:03.994Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T05:53:50.428Z"}
+{"input":"32","level":"info","message":"Roman conversion request","output":"XXXII","timestamp":"2023-06-16T05:53:54.078Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T05:56:42.695Z"}
+{"input":"22","level":"info","message":"Roman conversion request","output":"XXII","timestamp":"2023-06-16T05:56:46.282Z"}
+{"input":"33","level":"info","message":"Roman conversion request","output":"XXXIII","timestamp":"2023-06-16T05:56:50.922Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T05:59:33.212Z"}
+{"input":"33","level":"info","message":"Roman conversion request","output":"XXXIII","timestamp":"2023-06-16T05:59:37.467Z"}
+{"input":"123","level":"info","message":"Roman conversion request","output":"CXXIII","timestamp":"2023-06-16T05:59:41.233Z"}
+{"input":"9868","level":"warn","message":"Invalid input","timestamp":"2023-06-16T05:59:46.179Z"}
+{"input":"66","level":"info","message":"Roman conversion request","output":"LXVI","timestamp":"2023-06-16T05:59:50.204Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T06:02:45.080Z"}
+{"input":"76","level":"info","message":"Roman conversion request","output":"LXXVI","timestamp":"2023-06-16T06:02:51.063Z"}
+{"input":"443","level":"info","message":"Roman conversion request","output":"CDXLIII","timestamp":"2023-06-16T06:02:55.322Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T06:04:41.409Z"}
+{"input":"443","level":"info","message":"Roman conversion request","output":"CDXLIII","timestamp":"2023-06-16T06:04:44.876Z"}
+{"input":"98","level":"info","message":"Roman conversion request","output":"XCVIII","timestamp":"2023-06-16T06:04:47.674Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T06:06:36.944Z"}
+{"input":"98","level":"info","message":"Roman conversion request","output":"XCVIII","timestamp":"2023-06-16T06:06:40.137Z"}
+{"input":"123","level":"info","message":"Roman conversion request","output":"CXXIII","timestamp":"2023-06-16T06:06:45.961Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T06:06:55.428Z"}
+{"input":"123","level":"info","message":"Roman conversion request","output":"CXXIII","timestamp":"2023-06-16T06:06:57.873Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T06:07:14.770Z"}
+{"input":"123","level":"info","message":"Roman conversion request","output":"CXXIII","timestamp":"2023-06-16T06:07:17.258Z"}
+{"input":"33","level":"info","message":"Roman conversion request","output":"XXXIII","timestamp":"2023-06-16T06:07:19.792Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T06:09:16.439Z"}
+{"input":"33","level":"info","message":"Roman conversion request","output":"XXXIII","timestamp":"2023-06-16T06:09:19.480Z"}
+{"input":"55","level":"info","message":"Roman conversion request","output":"LV","timestamp":"2023-06-16T06:09:23.756Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T06:09:45.445Z"}
+{"input":"55","level":"info","message":"Roman conversion request","output":"LV","timestamp":"2023-06-16T06:09:53.764Z"}
+{"input":"22","level":"info","message":"Roman conversion request","output":"XXII","timestamp":"2023-06-16T06:10:01.675Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T06:12:12.562Z"}
+{"input":"22","level":"info","message":"Roman conversion request","output":"XXII","timestamp":"2023-06-16T06:12:16.440Z"}
+{"input":"433","level":"info","message":"Roman conversion request","output":"CDXXXIII","timestamp":"2023-06-16T06:12:20.926Z"}
+{"input":"211","level":"info","message":"Roman conversion request","output":"CCXI","timestamp":"2023-06-16T06:12:29.654Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T06:14:06.223Z"}
+{"input":"211","level":"info","message":"Roman conversion request","output":"CCXI","timestamp":"2023-06-16T06:14:13.153Z"}
+{"input":"323","level":"info","message":"Roman conversion request","output":"CCCXXIII","timestamp":"2023-06-16T06:14:16.047Z"}
+{"input":"123","level":"info","message":"Roman conversion request","output":"CXXIII","timestamp":"2023-06-16T06:14:18.784Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T06:17:14.380Z"}
+{"input":"123","level":"info","message":"Roman conversion request","output":"CXXIII","timestamp":"2023-06-16T06:17:17.440Z"}
+{"input":"98","level":"info","message":"Roman conversion request","output":"XCVIII","timestamp":"2023-06-16T06:17:20.330Z"}
+{"input":"577","level":"info","message":"Roman conversion request","output":"DLXXVII","timestamp":"2023-06-16T06:17:24.427Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T06:18:44.261Z"}
+{"input":"577","level":"info","message":"Roman conversion request","output":"DLXXVII","timestamp":"2023-06-16T06:18:47.872Z"}
+{"input":"33","level":"info","message":"Roman conversion request","output":"XXXIII","timestamp":"2023-06-16T06:18:50.179Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T06:19:49.087Z"}
+{"input":"33","level":"info","message":"Roman conversion request","output":"XXXIII","timestamp":"2023-06-16T06:19:52.975Z"}
+{"input":"3223","level":"info","message":"Roman conversion request","output":"MMMCCXXIII","timestamp":"2023-06-16T06:19:55.391Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T06:22:27.319Z"}
+{"input":"3223","level":"info","message":"Roman conversion request","output":"MMMCCXXIII","timestamp":"2023-06-16T06:22:30.243Z"}
+{"input":"123","level":"info","message":"Roman conversion request","output":"CXXIII","timestamp":"2023-06-16T06:22:31.370Z"}
+{"input":"122","level":"info","message":"Roman conversion request","output":"CXXII","timestamp":"2023-06-16T06:22:33.151Z"}
+{"input":"33","level":"info","message":"Roman conversion request","output":"XXXIII","timestamp":"2023-06-16T06:22:34.947Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T06:24:15.721Z"}
+{"input":"33","level":"info","message":"Roman conversion request","output":"XXXIII","timestamp":"2023-06-16T06:24:18.325Z"}
+{"input":"22","level":"info","message":"Roman conversion request","output":"XXII","timestamp":"2023-06-16T06:24:20.457Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T06:28:02.367Z"}
+{"input":"9","level":"info","message":"Roman conversion request","output":"IX","timestamp":"2023-06-16T06:28:02.418Z"}
+{"input":"abc","level":"warn","message":"Invalid input","timestamp":"2023-06-16T06:28:02.446Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T06:28:45.704Z"}
+{"input":"@@@","level":"warn","message":"Invalid input","timestamp":"2023-06-16T06:28:48.221Z"}
+{"input":"22","level":"info","message":"Roman conversion request","output":"XXII","timestamp":"2023-06-16T06:28:54.495Z"}
+{"input":"223","level":"info","message":"Roman conversion request","output":"CCXXIII","timestamp":"2023-06-16T06:28:56.505Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T06:39:51.523Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T06:50:12.701Z"}
+{"input":"9","level":"info","message":"Roman conversion request","output":"IX","timestamp":"2023-06-16T06:50:12.737Z"}
+{"input":"abc","level":"warn","message":"Invalid input","timestamp":"2023-06-16T06:50:12.763Z"}
+{"level":"info","message":"Server started on port 8080","timestamp":"2023-06-16T06:50:16.314Z"}
+{"input":"723","level":"info","message":"Roman conversion request","output":"DCCXXIII","timestamp":"2023-06-16T06:50:34.545Z"}
